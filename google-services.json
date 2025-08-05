@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "166521460511",
+    "project_id": "smart-farming-app-ee9eb",
+    "storage_bucket": "smart-farming-app-ee9eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166521460511:android:0ff5e9ae9b4f2f6c54422a",
+        "android_client_info": {
+          "package_name": "com.example.smart_farming_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166521460511-a443disan7dqr8bira9tau84akv5aeo9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_farming_app",
+            "certificate_hash": "1f8fa4367bbd2b58ae2dbd84a49ef202f7dfeb27"
+          }
+        },
+        {
+          "client_id": "166521460511-dpiogpi3bv5c4oagbu2okramndktmv1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkL4r1bGX9-AEUUtQF3YbuNnmKVdFj9JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166521460511-dpiogpi3bv5c4oagbu2okramndktmv1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
