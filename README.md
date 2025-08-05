@@ -43,4 +43,12 @@ cd smart-farming-app
 flutter pub get
 flutter run
 
+🤝 Contributions
+This project is currently personal and open for collaboration. If you are passionate about AgriTech, feel free to fork and suggest enhancements!
+
+👩‍💻 Developer
+Naga Sushma
+Final Year Student | Bapatla Engineering College
+💬 Passionate about tech with purpose | App Developer
+
 
