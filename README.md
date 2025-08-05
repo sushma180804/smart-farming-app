@@ -32,7 +32,15 @@ Inspired by real problems faced by my own family in agriculture, this project is
 - **Flutter** – UI and cross-platform mobile development  
 - **Dart** – App logic and backend interaction  
 - **Firebase** – Authentication, Firestore, Storage, and Messaging  
-- **Google Maps API** – Location & Mapping (for future enhancement)  
+- **Google Maps API** – Location & Mapping (for future enhancement)
+  
+🤝 Contributions:
+This project is currently personal and open for collaboration. If you are passionate about AgriTech, feel free to fork and suggest enhancements!
+
+👩‍💻 Developer:
+Naga Sushma
+Final Year Student | Bapatla Engineering College
+💬 Passionate about tech with purpose | App Developer
 
 
 ## 📦 How to Run
@@ -43,12 +51,7 @@ cd smart-farming-app
 flutter pub get
 flutter run
 
-🤝 Contributions
-This project is currently personal and open for collaboration. If you are passionate about AgriTech, feel free to fork and suggest enhancements!
 
-👩‍💻 Developer
-Naga Sushma
-Final Year Student | Bapatla Engineering College
-💬 Passionate about tech with purpose | App Developer
+
 
 
